@@ -10,7 +10,7 @@
   </head>
   <body>
     <header>
-      <h1>Arti Yadav</h1>
+      <h1>Alok Pandey</h1>
       <p>Web Developer | Full Stack Developer</p>
     </header>
 
@@ -45,11 +45,11 @@
     </section>
     <section id="contact">
       <h2>Contact</h2>
-      <p>Email: artiyadav.rkt@gmail.com</p>
-      <p>Phone: 8090450238</p>
+      <p>Email: forexelite38@gmail.com</p>
+      <p>Phone: 9721584311</p>
     </section>
     <footer>
-      <p>&copy; 2023 Arti Yadav. All rights reserved.</p>
+      <p>&copy; 2023 Alok kumar Pandey. All rights reserved.</p>
     </footer>
   </body>
 </html>
